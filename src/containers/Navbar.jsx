@@ -6,7 +6,7 @@ function Navbar(){
     return(
         <nav>
         <div id="nav">
-            <Link to="/" >
+            <Link to="/sherlock" >
                 <h1 id="logo">VisionStreams</h1>
             </Link>
         </div>
