@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sherlock/static/css/main.805ce662.css",
+    "main.js": "/sherlock/static/js/main.385ab65f.js",
+    "static/media/hero_back.webp": "/sherlock/static/media/hero_back.3cb6fa5199663e431e4c.webp",
+    "index.html": "/sherlock/index.html",
+    "main.805ce662.css.map": "/sherlock/static/css/main.805ce662.css.map",
+    "main.385ab65f.js.map": "/sherlock/static/js/main.385ab65f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.805ce662.css",
+    "static/js/main.385ab65f.js"
+  ]
+}
