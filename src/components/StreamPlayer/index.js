@@ -14,7 +14,7 @@ function StreamPlayer(props){
             <p id="playing_descr">{descr}</p>
             <Link id="prev-navigator" to={props.prev}>Prev</Link>
             <Link id="next-navigator" to={props.next}>Next</Link>
-            <br></br><Link id="home-navigator" to="/">Back to home</Link>
+            <br></br><Link id="home-navigator" to="/sherlock">Back to home</Link>
 
         </div>
     )
